@@ -1,0 +1,68 @@
+{
+  "header-main": "Main Page",
+  "header-project": "About Project",
+  "header-team": "Project team",
+  "header-sources": "Sources",
+  "header-results": "Results",
+
+  "about-main-text-1": "When history intertwines with the latest technologies, unique projects are born that embody the spirit of the times and humanity's eternal pursuit of knowledge and preservation of its cultural heritage. One such project is dedicated to the Chinese Eastern Railway (CER), which is not just a historical artifact, but also a symbol of an era when technological progress went hand in hand with cultural exchange between nations.",
+  "about-main-text-2": "The Chinese Eastern Railway is not just a route laid across the vast expanses of Eurasia, but a living chronicle of an era, a monument to engineering thought, and a bridge between cultures. Constructed at the end of the 19th and the beginning of the 20th centuries, it became a symbol of technical and cultural cooperation between Russia and China. Today, the CER is not only an important transport hub but also a historical object, preserving centuries-old traditions and stories.",
+  "about-main-text-3": "Into this project, students from ITMO University have poured their soul and talent. They undertook an ambitious task – creating a three-dimensional model of the CER. This became possible thanks to modern technologies and the creative approach of these young specialists. They didn't just recreate a virtual image of the railway but breathed life into it, using historical data, photographs, and testimonies from that time.",
+  "about-main-text-4": "The project by ITMO students is more than just an academic assignment or a scientific research work. It is their contribution to the preservation of historical heritage, an attempt to protect and conserve a unique object for future generations using digital technologies. By creating this 3D model, the ITMO students are not only expanding their knowledge and skills in digital technologies but also contributing to the preservation of an important part of history, making it accessible to a wide audience.",
+  "about-main-text-5": "Thus, the project to recreate the Chinese Eastern Railway in 3D is not only a technological achievement but also a cultural contribution, demonstrating how technology can serve history and culture, preserving the past and opening it up for new generations.",
+
+
+  "team-text": "",
+
+
+  "sources-1": "Source 1",
+  "sources-2": "Source 2",
+  "sources-3": "Source 3",
+  "sources-text-1": "",
+  "sources-text-2": "",
+  "sources-text-3": "",
+
+  "menu-depot": "Depot",
+  "menu-houses": "Houses",
+  "menu-church": "Church",
+  "menu-hospital": "Hospital",
+  "menu-railway": "Railway Station",
+  "menu-water-tower": "Water Tower",
+
+  "main-page-h2": "Historical background",
+  "main-page-description": "The China-Eastern Railway (CER) was a railway line that ran through the territory of Manchuria and connected Chita with Vladivostok and Port Arthur. The road was built in 1897-1903 as the southern branch of the Trans-Siberian Railway (de facto). The CER belonged to the Russian Empire and was served by its subjects. The construction of the road was a step to increase the influence of the Russian Empire in the Far East, strengthen the Russian military presence on the shores of the Yellow Sea against the background of Japan's expansion in Korea and China.",
+
+  "footer-politics": "Personal Data Processing Policy",
+  "footer-info": "Information Ⓒ 2023 - 2025",
+  "footer-itmo": "ITMO University, SPBU, RNF",
+
+  "publications": "publications",
+  "publications-text": "",
+
+  "3d-reconstructions": "3-D reconstructions",
+  "tin-station": "Olovyannaya station",
+  "historical-ref": "Historical background",
+
+
+  "attractions-church-header": "Church",
+  "attractions-church-description": "The image shows a wooden model of a church with multiple domes and crosses, crafted in a traditional style.",
+
+  "attractions-house-1-header": "House 1",
+  "attractions-house-1-description": "The image shows a log house with several chimneys and dormer windows, reflecting elements of Russian rural architecture.",
+  "attractions-house-2-header": "House 2",
+  "attractions-house-2-description": "The image depicts a single-story log house with a flat roof and several chimneys, characteristic of rural settings.",
+  "attractions-house-3-header": "House 3",
+  "attractions-house-3-description": "The image depicts a spacious wooden house with high roofs and carved decorations on the facade, giving it a folk character.",
+
+  "attractions-vokzal-header": "Railway Station",
+  "attractions-vokzal-description": "The image shows a wooden railway station building with a green roof and carved elements on the cornices, typical of regional train stations.",
+
+  "attractions-water-tower-header": "Water Tower",
+  "attractions-water-tower-description": "The image depicts a water tower constructed in a classic style using brick and wood, with a tall pipeline characteristic of such structures.",
+
+  "attractions-depot-header": "Depot",
+  "attractions-depot-description": "The image shows a wooden structure resembling a house or a small public building, with distinctive vertical elements on the facade and several chimneys on the roof.",
+
+  "attractions-hospital-header": "Hospital",
+  "attractions-hospital-description": "The image shows a multi-level wooden structure with multiple roofs, darkened windows, and decorative features that may indicate the building's cultural or historical significance."
+}
