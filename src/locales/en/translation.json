@@ -1,5 +1,6 @@
 {
   "header-main": "Main Page",
+  "header-attractions": "Attractions",
   "header-project": "About Project",
   "header-team": "Project team",
   "header-sources": "Sources",
@@ -12,7 +13,9 @@
   "about-main-text-5": "Thus, the project to recreate the Chinese Eastern Railway in 3D is not only a technological achievement but also a cultural contribution, demonstrating how technology can serve history and culture, preserving the past and opening it up for new generations.",
 
 
-  "team-text": "",
+  "team-text": "Students of ITMO University: Merkulov Fyodor, Razvod Kirill",
+
+  "results-text": "",
 
 
   "sources-1": "Source 1",
@@ -33,7 +36,7 @@
   "main-page-description": "The China-Eastern Railway (CER) was a railway line that ran through the territory of Manchuria and connected Chita with Vladivostok and Port Arthur. The road was built in 1897-1903 as the southern branch of the Trans-Siberian Railway (de facto). The CER belonged to the Russian Empire and was served by its subjects. The construction of the road was a step to increase the influence of the Russian Empire in the Far East, strengthen the Russian military presence on the shores of the Yellow Sea against the background of Japan's expansion in Korea and China.",
 
   "footer-politics": "Personal Data Processing Policy",
-  "footer-info": "Information Ⓒ 2023 - 2025",
+  "footer-info": "Information Ⓒ 2023 - ",
   "footer-itmo": "ITMO University, SPBU, RNF",
 
   "publications": "publications",

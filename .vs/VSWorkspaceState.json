@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
     "\\src",
     "\\src\\Components",
+    "\\src\\Components\\MainSection",
+    "\\src\\Components\\MainSection\\SecondHeader",
     "\\src\\Components\\pages",
-    "\\src\\Components\\pages\\ResultPage",
-    "\\src\\Components\\pages\\SourcePage",
+    "\\src\\Components\\pages\\ResultsPage",
     "\\src\\Components\\pages\\TeamPage",
     "\\src\\locales",
-    "\\src\\locales\\en"
+    "\\src\\locales\\en",
+    "\\src\\locales\\ru"
   ],
   "SelectedNode": "\\src\\locales\\en\\translation.json",
   "PreviewInSolutionExplorer": false

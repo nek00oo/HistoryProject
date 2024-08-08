@@ -12,7 +12,7 @@ const SecondHeader = () => {
                 <ul className={'flex flex-row items-center justify-around g-x-5 h-[40px]'}>
                     <li className={'cursor-pointer'}
                         onClick={() => {
-                            dispatch(goTo('results'));
+                            dispatch(goTo('attractions'));
                             const element = document.getElementById('depot');
                             console.log(element);
                             if (element) {
@@ -23,7 +23,7 @@ const SecondHeader = () => {
                     </li>
                     <li className={'cursor-pointer'}
                         onClick={() => {
-                            dispatch(goTo('results'));
+                            dispatch(goTo('attractions'));
                             const element = document.getElementById('house-1');
 
                             if (element) {
@@ -34,7 +34,7 @@ const SecondHeader = () => {
                     </li>
                     <li className={'cursor-pointer'}
                         onClick={() => {
-                            dispatch(goTo('results'));
+                            dispatch(goTo('attractions'));
                             const element = document.getElementById('church');
 
                             if (element) {
@@ -45,7 +45,7 @@ const SecondHeader = () => {
                     </li>
                     <li className={'cursor-pointer'}
                         onClick={() => {
-                            dispatch(goTo('results'));
+                            dispatch(goTo('attractions'));
                             const element = document.getElementById('hospital');
 
                             if (element) {
@@ -56,7 +56,7 @@ const SecondHeader = () => {
                     </li>
                     <li className={'cursor-pointer'}
                         onClick={() => {
-                            dispatch(goTo('results'));
+                            dispatch(goTo('attractions'));
                             const element = document.getElementById('vokzal');
 
                             if (element) {
@@ -67,7 +67,7 @@ const SecondHeader = () => {
                     </li>
                     <li className={'cursor-pointer'}
                         onClick={() => {
-                            dispatch(goTo('results'));
+                            dispatch(goTo('attractions'));
                             const element = document.getElementById('water-tower');
 
                             if (element) {
